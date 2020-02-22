@@ -1,5 +1,6 @@
 %% Heat Transfer Homework 3
 % Chris Mignano; Yuval Philipson; Brian Chung
+%comment number 1
 
 %% ME342 Homework 3 - SETUP
 clc;
